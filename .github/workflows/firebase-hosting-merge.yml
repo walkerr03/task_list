@@ -17,3 +17,4 @@ jobs:
           firebaseServiceAccount: ${{ secrets.FIREBASE_SERVICE_ACCOUNT_TASK_LIST_A8D75 }}
           channelId: live
           projectId: task-list-a8d75
+          entryPoint: ./
